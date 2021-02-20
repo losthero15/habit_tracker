@@ -3,7 +3,7 @@ from datetime import datetime
 
 USERNAME: str = "YOUR USERNAME"
 TOKEN: str = "YOUR SELF-CREATED TOKEN"
-GRAPH_ID: str = "graph1"
+GRAPH_ID: str = "YOUR GRAPH ID"
 HEADER: dict = {
     "X-USER-TOKEN": TOKEN
 }
